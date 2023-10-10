@@ -1,0 +1,1 @@
+sass --watch "C:\Users\MR Pure\Dropbox\Matiour\seomy\seomy\assets\scss\main.scss":"C:\Users\MR Pure\Dropbox\Matiour\seomy\seomy\assets\css\main.css"
